@@ -3,5 +3,6 @@
 
 #include "./miryoku/custom_config.h"
 #define MIRYOKU_TAP_QWERTY
-#include "./miryoku/mapping/36/minidox.h"
+#define MIRYOKU_NAV_VI
+#include "./miryoku/mapping/42/corne.h"
 #include "./miryoku/miryoku.dtsi"
